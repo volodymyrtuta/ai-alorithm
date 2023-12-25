@@ -1,30 +1,6 @@
-aioquic
+ai algorithm
 =======
 
-|rtd| |pypi-v| |pypi-pyversions| |pypi-l| |tests| |codecov| |black|
-
-.. |rtd| image:: https://readthedocs.org/projects/aioquic/badge/?version=latest
-    :target: https://aioquic.readthedocs.io/
-
-.. |pypi-v| image:: https://img.shields.io/pypi/v/aioquic.svg
-    :target: https://pypi.python.org/pypi/aioquic
-
-.. |pypi-pyversions| image:: https://img.shields.io/pypi/pyversions/aioquic.svg
-    :target: https://pypi.python.org/pypi/aioquic
-
-.. |pypi-l| image:: https://img.shields.io/pypi/l/aioquic.svg
-    :target: https://pypi.python.org/pypi/aioquic
-
-.. |tests| image:: https://github.com/aiortc/aioquic/workflows/tests/badge.svg
-    :target: https://github.com/aiortc/aioquic/actions
-
-.. |codecov| image:: https://img.shields.io/codecov/c/github/aiortc/aioquic.svg
-    :target: https://codecov.io/gh/aiortc/aioquic
-
-.. |black| image:: https://img.shields.io/badge/code%20style-black-000000.svg
-    :target: https://github.com/python/black
-
-What is ``aioquic``?
 --------------------
 
 ``aioquic`` is a library for the QUIC network protocol in Python. It features
